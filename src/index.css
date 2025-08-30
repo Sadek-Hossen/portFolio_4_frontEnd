@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Lexend:wght@100..900&display=swap');
+@plugin "daisyui";
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+/* Custom 800px–1000px breakpoint */
+@media (min-width: 700px) and (max-width: 1200px) {
+  .custom\:grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
