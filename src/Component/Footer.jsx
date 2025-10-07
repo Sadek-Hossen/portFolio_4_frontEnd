@@ -41,7 +41,7 @@ function Footer() {
       </div>
       </div>
       {/* icons */}
-      <div className='w-[90%] flex md:w-[50%] justify-between items-center py-3 mx-auto gap-2 md:gap-3 w '>
+      <div className='w-[90%]  flex md:w-[50%] justify-between items-center py-3 mx-auto gap-2 md:gap-3  '>
   <a  className=' bg-gray-500 p-3 opacity-100 hover:opacity-80 transition-all rounded-full' href="https://www.facebook.com/i.ma.na.dzu">  <FacebookIcon /></a>
   <a  className=' bg-gray-500 p-3 opacity-100 hover:opacity-80 transition-all rounded-full' href="https://x.com/sadek726">   <XIcon /></a>
    <a   className=' bg-gray-500 p-3 opacity-100 hover:opacity-80 transition-all rounded-full ' href="https://instagram.com">    <InstagramIcon /></a>

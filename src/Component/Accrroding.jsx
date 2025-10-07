@@ -16,6 +16,27 @@ import Button from '@mui/material/Button';
               <div>
                 <h1 className='text-white font-semibold md:text-2xl text-xl py-3 md:py-2  mt-10 font-stretch-110% mask-b-from-neutral-950'>Here are some  special simple functual projects I made with my own hands.</h1>
               </div>
+      <Accordion style={{ backgroundColor: "#3C7EB0" , color:"white"}}  >
+        <AccordionSummary   className='bg-amber-500'
+          expandIcon={<ExpandMoreIcon className='text-white' />}
+          aria-controls="panel1-content"
+          id="panel1-header"
+        >
+          <Typography component="span" ><p className='font-bold '>Modern Facebook clone</p></Typography>
+        </AccordionSummary>
+        
+        <AccordionDetails className=' bg-red-300'>
+
+      <a href="https://facebook-client-kappa.vercel.app/">
+         <div className='flex justify-between items-center'>
+          <div  className='text-blue-600 font-bold border-b'> Facebook Clone  app </div>
+          <div className='text-blue-600 font-bold border-b'><span>See Project </span></div>
+        </div>
+        </a> 
+        </AccordionDetails>
+      </Accordion>
+
+{/* seceond  1*/}
       <Accordion style={{ backgroundColor: "#2921CC" , color:"white"}} >
         <AccordionSummary   className='bg-amber-500'
           expandIcon={<ExpandMoreIcon className='text-white' />}
@@ -34,7 +55,7 @@ import Button from '@mui/material/Button';
         </AccordionDetails>
       </Accordion>
 
-      {/* seceond */}
+      {/* seceond 2 */}
 
       <Accordion style={{ backgroundColor: "#8C8CDB" , color:"white"}} >
         <AccordionSummary   className='bg-amber-500'
@@ -104,6 +125,24 @@ import Button from '@mui/material/Button';
                 <h1 className='text-white font-semibold md:text-2xl text-xl py-3 md:py-2  mt-10 font-stretch-110% mask-b-from-neutral-950'>Here are some special Website  projects I made with my own hands.</h1>
               </div>
               {/* first project in left side */}
+      <Accordion style={{ backgroundColor: "#3C7EB0" , color:"white"}} >
+        <AccordionSummary   className='bg-amber-500'
+          expandIcon={<ExpandMoreIcon className='text-white' />}
+          aria-controls="panel1-content"
+          id="panel1-header"
+        >
+          <Typography component="span" ><p className='font-bold '>Ecommerce App</p></Typography>
+        </AccordionSummary>
+        <AccordionDetails className=' bg-red-300'>
+      <a href="https://ecommerce-38.netlify.app/">
+         <div className='flex justify-between items-center'>
+          <div  className='text-blue-600 font-bold border-b'> Ecommerce web app </div>
+          <div className='text-blue-600 font-bold border-b'><span>See Website</span></div>
+        </div>
+        </a> 
+        </AccordionDetails>
+      </Accordion>
+      {/* second 1 */}
       <Accordion style={{ backgroundColor: "#2921CC" , color:"white"}} >
         <AccordionSummary   className='bg-amber-500'
           expandIcon={<ExpandMoreIcon className='text-white' />}

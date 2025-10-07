@@ -1,7 +1,7 @@
 import React, { useState} from 'react';
 import { Menu, X } from 'lucide-react';
-
-
+import ContructForm from './ContructForm';
+import { Link } from 'react-router-dom';
 
 function Header() {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -29,6 +29,7 @@ function Header() {
          <a href="#footer">Contruct me</a>
          <a href="#skills">Skills</a>
          <a href="#blog">Blog</a>
+         <a href={'#ContructForm'}> contructform </a>
          
         
         </nav>
@@ -55,6 +56,7 @@ function Header() {
          <a onClick={()=>setMenuOpen(false)} href="#footer">Contruct me</a>
          <a onClick={()=>setMenuOpen(false)} href="#skills">Skills</a>
          <a onClick={()=>setMenuOpen(false)} href="#blog">Blog</a>
+         <a onClick={()=>setMenuOpen(false)} href="#ContructForm">ContructForm</a>
       
 
             

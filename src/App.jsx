@@ -13,6 +13,7 @@ import Blog from './Component/Blog'
 import { useEffect } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
+import ContructForm from './Component/ContructForm'
 
 function App() {
 
@@ -31,6 +32,7 @@ function App() {
         <div data-aos="fade-up"><Contruct /></div>
         <div data-aos="fade-up"><Blog /></div>
         <div data-aos="fade-up"><Skills /></div>
+        <div data-aos="fade-up"><ContructForm /></div>
         <div data-aos="fade-up"><Review /></div>
         <div data-aos="fade-up"><Footer /></div>
        

@@ -11,7 +11,7 @@ function About() {
            </div>
            <div className='text-gray-400 text-xl  '>
           <h1 className='text-2xl font-mono text-blue-300 py-4'>About Me</h1>
-          <p> <span className='text-4xl py-4 font-bold text-blue-400'>Me Sadek Hossen</span> <br />I'm a creative Front-End Web Developer with strong skills in <span className='text-xl font-bold text-blue-300 font-mono'>HTML, CSS, Tailwind CSS, JavaScript, and ReactJS</span>. I enjoy building responsive and modern websites with clean design. I'm passionate about learning new technologies and improving my development skills to build better user experiences. I always focus on writing clean, efficient, and maintainable code.</p>
+          <p> <span className='text-4xl py-4 font-bold text-blue-400'>Me Sadek Hossen</span> <br />I'm a creative Fullstack Web Developer with strong skills in <span className='text-xl font-bold text-blue-300 font-mono'>HTML, CSS, Tailwind CSS, JavaScript, ReactJS, Next.JS, NodeJS, ExpressJS, MongoDB, Firebase</span>. I enjoy building responsive and modern websites with Backend . I'm passionate about learning new technologies and improving my development skills to build better user experiences. I always focus on writing clean, efficient, and maintainable code.</p>
           <div><img src="about.png" alt=""  className='p-4 rounded-3xl'/></div>
            </div>
          </div>

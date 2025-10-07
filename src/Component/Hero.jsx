@@ -62,13 +62,13 @@ function Hero() {
               />
             </span>
             <p className="py-5 text-[16px] md:text-2xl text-blue-300">
-              Front End Expert Web Developer
+              Fullstack Expert Web Developer
             </p>
           </div>
           <div>
             {" "}
             <p className="text-sm px-3 md:text-3xl text-gray-400  ">
-              I design and build modern, responsive, and user-friendly websites.
+              I design and build modern, responsive, and user-friendly websites with backend.
             </p>
           </div>
         </div>
