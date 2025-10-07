@@ -63,61 +63,61 @@ const nextprevius = () => {
 
         <div className='grid grid-cols-2 md:grid-cols-3  gap-3 '>
           <div>
-          <div className='flex    items-center md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='  md:text-xl '> HTML</h1></div>
+          <div className='flex    items-center md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='  md:text-[16px] '> HTML</h1></div>
         </div>
         <div>
-          <div className='flex   items-center md:gap-3  bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-xl text-[14px]'>CSS</h1></div>
+          <div className='flex   items-center md:gap-3  bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-[16px] text-[14px]'>CSS</h1></div>
         </div>
         <div>
-          <div className='flex   items-center md:gap-3  bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-xl text-[14px]'> Tailwind CSS</h1></div>
+          <div className='flex   items-center md:gap-3  bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-[16px] text-[14px]'> Tailwind CSS</h1></div>
         </div>
         <div>
-          <div className='flex   items-center md:gap-3  bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-xl text-[14px]'> Javascript</h1></div>
+          <div className='flex   items-center md:gap-3  bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-[16px] text-[14px]'> Javascript</h1></div>
         </div>
         <div>
-          <div className='flex   items-center md:gap-3  bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-xl text-[14px]'> React JS</h1></div>
+          <div className='flex   items-center md:gap-3  bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-[16px] text-[14px]'> React JS</h1></div>
         </div>
         <div>
-          <div className='flex   items-center md:gap-3  bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-xl text-[14px]'> Node Js</h1></div>
+          <div className='flex   items-center md:gap-3  bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-[16px] text-[14px]'> Node Js</h1></div>
         </div>
         <div>
-          <div className='flex   items-center md:gap-3  bg-blue-300 px-5 md:py-4 w-full p-2  rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-xl text-[14px]'> Dibuging</h1></div>
+          <div className='flex   items-center md:gap-3  bg-blue-300 px-5 md:py-4 w-full p-2  rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-[16px] text-[14px]'> Dibuging</h1></div>
         </div>
         <div>
-          <div className='flex   items-center md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-xl text-[14px]'> Exprss JS</h1></div>
+          <div className='flex   items-center md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-[16px] text-[14px]'> Exprss JS</h1></div>
         </div>
         <div>
-          <div className='flex   items-center  md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-xl text-[14px]'> Responsive </h1></div>
+          <div className='flex   items-center  md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-[16px] text-[14px]'> Responsive </h1></div>
         </div>
         <div>
-          <div className='flex   items-center  md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-xl text-[14px]'> Responsive </h1></div>
+          <div className='flex   items-center  md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-[16px] text-[14px]'> Responsive </h1></div>
         </div>
         <div>
-          <div className='flex   items-center  md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-xl text-[14px]'> Responsive </h1></div>
+          <div className='flex   items-center  md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-[16px] text-[14px]'> Responsive </h1></div>
         </div>
         <div>
-          <div className='flex   items-center  md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-xl text-[14px]'> Responsive </h1></div>
+          <div className='flex   items-center  md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-[16px] text-[14px]'> Responsive </h1></div>
         </div>
         <div>
-          <div className='flex   items-center  md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className=' text-[14px] md:text-xl'> Responsive </h1></div>
+          <div className='flex   items-center  md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className=' text-[14px] md:text-[16px]'> Responsive </h1></div>
         </div>
         <div>
-          <div className='flex   items-center  md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-xl text-[14px]'> Responsive </h1></div>
+          <div className='flex   items-center  md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-[16px] text-[14px]'> Responsive </h1></div>
         </div>
         <div>
-          <div className='flex   items-center  md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text- text-[14px]'> Responsive </h1></div>
+          <div className='flex   items-center  md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-[16px] text-[14px]'> Responsive </h1></div>
         </div>
         <div>
-          <div className='flex   items-center md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-xl text-[14px]'> Responsive </h1></div>
+          <div className='flex   items-center md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-[16px] text-[14px]'> Responsive </h1></div>
         </div>
         <div>
-          <div className='flex   items-center  md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-xl text-[14px]'> Responsive </h1></div>
+          <div className='flex   items-center  md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-[16px] text-[14px]'> Responsive </h1></div>
         </div>
         <div>
-          <div className='flex   items-center md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-xl text-[14px]'> Responsive </h1></div>
+          <div className='flex   items-center md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-[16px] text-[14px]'> Responsive </h1></div>
         </div>
         <div>
-          <div className='flex   items-center md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text- text-[14px]'> Responsive </h1></div>
+          <div className='flex   items-center md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-[16px] text-[14px]'> Responsive </h1></div>
         </div>
         </div>
     </div>
