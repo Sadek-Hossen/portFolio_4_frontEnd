@@ -134,7 +134,8 @@ import Button from '@mui/material/Button';
           <Typography component="span" ><p className='font-bold '>Ecommerce App</p></Typography>
         </AccordionSummary>
         <AccordionDetails className=' bg-red-300'>
-      <a href="https://ecommerce-38.netlify.app/">
+     
+      <a href="https://next-ecom-1-frontend.vercel.app/">
          <div className='flex justify-between items-center'>
           <div  className='text-blue-600 font-bold border-b'> Ecommerce web app </div>
           <div className='text-blue-600 font-bold border-b'><span>See Website</span></div>
@@ -149,12 +150,12 @@ import Button from '@mui/material/Button';
           aria-controls="panel1-content"
           id="panel1-header"
         >
-          <Typography component="span" ><p className='font-bold '>Bank website</p></Typography>
+          <Typography component="span" ><p className='font-bold '>Ecommerce website</p></Typography>
         </AccordionSummary>
         <AccordionDetails className=' bg-red-300'>
-      <a href="https://your-bank-xi.vercel.app/">
+     <a href="https://ecommerce-38.netlify.app/">
          <div className='flex justify-between items-center'>
-          <div  className='text-blue-600 font-bold border-b'> Bank web app </div>
+          <div  className='text-blue-600 font-bold border-b'>  E-commerce web app </div>
           <div className='text-blue-600 font-bold border-b'><span>See Website</span></div>
         </div>
         </a> 
@@ -189,12 +190,12 @@ import Button from '@mui/material/Button';
           aria-controls="panel1-content"
           id="panel1-header"
         >
-          <Typography component="span" ><p className='font-bold '>Hotel bussens  website</p></Typography>
+          <Typography component="span" ><p className='font-bold '>Hotel Ecommerce  website</p></Typography>
         </AccordionSummary>
         <AccordionDetails className=' bg-[#ED8A8A]'>
-      <a href="https://sadek-hossen.github.io/Css-paid-assignment-2/">
+      <a href="https://ecommerc-1-client-side.vercel.app/">
          <div className='flex justify-between items-center'>
-          <div  className='text-blue-600 font-bold border-b'> Hotel  web app </div>
+          <div  className='text-blue-600 font-bold border-b'> ecommerce  web app </div>
           <div className='text-blue-600 font-bold border-b'><span>See Website</span></div>
         </div>
         </a> 
