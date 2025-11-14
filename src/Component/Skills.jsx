@@ -90,34 +90,34 @@ const nextprevius = () => {
           <div className='flex   items-center  md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-[16px] text-[14px]'> Responsive </h1></div>
         </div>
         <div>
-          <div className='flex   items-center  md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-[16px] text-[14px]'> Responsive </h1></div>
+          <div className='flex   items-center  md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-[16px] text-[14px]'> NextJS </h1></div>
         </div>
         <div>
-          <div className='flex   items-center  md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-[16px] text-[14px]'> Responsive </h1></div>
+          <div className='flex   items-center  md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-[16px] text-[14px]'> Firebase </h1></div>
         </div>
         <div>
-          <div className='flex   items-center  md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-[16px] text-[14px]'> Responsive </h1></div>
+          <div className='flex   items-center  md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-[16px] text-[14px]'> Git  </h1></div>
         </div>
         <div>
-          <div className='flex   items-center  md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className=' text-[14px] md:text-[16px]'> Responsive </h1></div>
+          <div className='flex   items-center  md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className=' text-[14px] md:text-[16px]'> Mongodb </h1></div>
         </div>
         <div>
-          <div className='flex   items-center  md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-[16px] text-[14px]'> Responsive </h1></div>
+          <div className='flex   items-center  md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-[16px] text-[14px]'> Dockar </h1></div>
         </div>
         <div>
-          <div className='flex   items-center  md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-[16px] text-[14px]'> Responsive </h1></div>
+          <div className='flex   items-center  md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-[16px] text-[14px]'> UI'es </h1></div>
         </div>
         <div>
-          <div className='flex   items-center md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-[16px] text-[14px]'> Responsive </h1></div>
+          <div className='flex   items-center md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-[16px] text-[14px]'> AWS </h1></div>
         </div>
         <div>
-          <div className='flex   items-center  md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-[16px] text-[14px]'> Responsive </h1></div>
+          <div className='flex   items-center  md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-[16px] text-[14px]'> REST Api </h1></div>
         </div>
         <div>
-          <div className='flex   items-center md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-[16px] text-[14px]'> Responsive </h1></div>
+          <div className='flex   items-center md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-[16px] text-[14px]'> Api connect </h1></div>
         </div>
         <div>
-          <div className='flex   items-center md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-[16px] text-[14px]'> Responsive </h1></div>
+          <div className='flex   items-center md:gap-3 bg-blue-300 px-3 md:py-4 w-full p-2 rounded-2xl  hover:bg-amber-500 transition-all duration-300 hover:scale-105'> <CheckIcon  /><h1 className='md:text-[16px] text-[14px]'> Database </h1></div>
         </div>
         </div>
     </div>
